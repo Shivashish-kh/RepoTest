@@ -1,5 +1,3 @@
-function call(){
-    return console.log("Hello World")
-};
-
-
+var name="SHivashish Khandelwal";
+var age=20;
+var gender="Male";
