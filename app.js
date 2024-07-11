@@ -1,1 +1,0 @@
-var js="A JS file";
