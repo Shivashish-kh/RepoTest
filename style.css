@@ -1,0 +1,12 @@
+p{
+    color:green;
+}
+div
+{
+    display:flex;
+}
+div > p
+{
+    color:red;
+    font-size:20px;
+}
